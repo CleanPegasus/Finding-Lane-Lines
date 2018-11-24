@@ -33,4 +33,7 @@ Result:
 <img src="result.jpg"
      alt="result"
      style="float: left; margin-right: 10px;" />
+     
+Future work:
+     This code can be improved with the help of CNN and more training images.
 
