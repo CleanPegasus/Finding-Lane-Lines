@@ -2,11 +2,11 @@ Lane Line Detection by a self driving car
 
 The goal of this program is to make a lane lines detector from the video footage(or an image of the road) from a self driving car. It is basic and only uses Image Processing techniques to find lane line(no CNN).
 
-https://github.com/CleanPegasus/Finding-Lane-Lines/blob/master/test_image.jpg
 
 <img src="test_image.jpg"
      alt="test_image"
      style="float: left; margin-right: 10px;" />
+
      
      
 Requirements:
@@ -30,5 +30,7 @@ Change the path of the image in the code if the image could not be detected.
 Result:
 
 
-
+<img src="result.jpg"
+     alt="result"
+     style="float: left; margin-right: 10px;" />
 
