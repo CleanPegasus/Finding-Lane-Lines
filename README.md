@@ -20,8 +20,11 @@ OpenCV
 Installations:
 
 Python 3: Download python 3 from https://www.python.org/downloads/
+
 Make sure you install python package index(pip) while you install python 3
+
 Numpy : Execute the command “pip3 install numpy” in terminal/command prompt.
+
 OpenCV : Execute the command “pip3 install opencv-python” in terminal/command prompt.
 
 After installing all the required packages run the lane_lines.py file.
