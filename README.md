@@ -4,6 +4,11 @@ The goal of this program is to make a lane lines detector from the video footage
 
 https://github.com/CleanPegasus/Finding-Lane-Lines/blob/master/test_image.jpg
 
+<img src="test_image.jpg"
+     alt="test_image"
+     style="float: left; margin-right: 10px;" />
+     
+     
 Requirements:
 
 Python 3
